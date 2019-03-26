@@ -13,6 +13,7 @@
 		8761C2242249B807009BA21E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8761C2222249B807009BA21E /* LaunchScreen.storyboard */; };
 		8761C22F2249B807009BA21E /* PreBandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8761C22E2249B807009BA21E /* PreBandTests.swift */; };
 		8761C23B2249BD31009BA21E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8761C23A2249BD31009BA21E /* LoginViewController.swift */; };
+		8761C23D2249C6B5009BA21E /* ProfileCreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8761C23C2249C6B5009BA21E /* ProfileCreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8761C22E2249B807009BA21E /* PreBandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreBandTests.swift; sourceTree = "<group>"; };
 		8761C2302249B807009BA21E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8761C23A2249BD31009BA21E /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		8761C23C2249C6B5009BA21E /* ProfileCreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileCreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				8761C23A2249BD31009BA21E /* LoginViewController.swift */,
+				8761C23C2249C6B5009BA21E /* ProfileCreationViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8761C23D2249C6B5009BA21E /* ProfileCreationViewController.swift in Sources */,
 				8761C23B2249BD31009BA21E /* LoginViewController.swift in Sources */,
 				8761C21A2249B806009BA21E /* AppDelegate.swift in Sources */,
 			);
