@@ -1,0 +1,6 @@
+framework module Pods_PreBandTests {
+  umbrella header "Pods-PreBandTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
